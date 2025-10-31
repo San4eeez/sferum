@@ -1,4 +1,4 @@
-# Sferum Bot by [@xKARASb](https://github.com/xKARASb)
+# Sferum Bot
 
 ## Powered by
 - [Python 3.11](https://docs.python.org/3.11/)
